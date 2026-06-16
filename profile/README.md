@@ -13,7 +13,7 @@ that are secure, auditable, and compliant by design.
 
 ## GATE  -  Governed Agent Trust Environment
 
-GATE is a control-plane framework that defines 16 controls for trustworthy
+GATE is a control-plane framework that defines 19 controls for trustworthy
 agentic AI. It wraps the probabilistic agent in a deterministic shell of
 governance: enforceable tool and memory boundaries, verifiable evidence,
 deterministic replay, and human oversight primitives.
